@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "org": "psf",
+  "repo": "fides-deploy",
+  "versions": [
+    {
+      "commit": "6fcea6d24384d34a3df4b60a899b052922acdf8f",
+      "parsed_at": "2026-10-11T07:57:10.566896+00:00",
+      "filetree": "filetree/6fcea6d24384d34a3df4b60a899b052922acdf8f.nq.gz",
+      "blobs": [
+        "blob/89ab7f875efdfdf0402c0c4d309dcab596add5ed.nq.gz",
+        "blob/e2ac9bf88559d72c79151fea58f4e881aee013e6.nq.gz",
+        "blob/703eb2eb8c808ef3aba99604691ffbe9f0c4d689.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
